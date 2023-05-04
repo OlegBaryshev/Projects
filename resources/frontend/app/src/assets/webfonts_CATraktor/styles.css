@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'CATraktor';
+    src:  url('CATraktor.ttf.woff') format('woff'),
+    url('CATraktor.ttf.svg#CATraktor') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
